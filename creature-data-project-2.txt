@@ -1,0 +1,17 @@
+// format for creatures is : classname name glyph row col dRow dCol calories
+// format for plants is : Plant name glyph row col calories
+Creature Mouse M 5 2 1 1 90
+Creature Rabbit R 8 27 1 -1 110
+Creature Boar B 18 18 -1 0 240
+Creature Antelope A 11 21 0 1 130
+Creature Hedgehog H 4 14 -1 1 70
+FleeingCreature Squirrel S 9 4 -1 -1 80
+FleeingCreature Zebra Z 15 22 -1 -1 120
+FleeingCreature Lemur L 7 28 1 -1 100
+FleeingCreature Gazelle G 17 10 -1 0 120
+FleeingCreature Wolf W 3 19 1 -1 110
+Plant Apple a 6 16 50
+Plant Berry b 3 22 60
+Plant Fern f 10 18 40
+Plant Mushroom m 12 7 30
+Plant Durian d 2 11 20
